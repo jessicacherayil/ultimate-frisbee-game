@@ -1,0 +1,12 @@
+WELCOME to the ULTIMATE Frisbee Game!
+The rules of the game are simple:
+1. You are playing as a frisbee team against a computer generated frisbee team
+[You are the blue team, the Wellesley Whiptails, while the opponent is the red team]
+2. Your goal is to go across the field to score a point
+3. Every time you get a correct answer your player will catch the disc and move up the field
+4. Every time you get a wrong answer the opposite team catches the disc and moves up the field
+5. The progress bar at the top of the game documents your progress on the field
+6. If the progress bar reaches 100% you have scored a point! 
+7. If it reaches 0% the opposing team has scored a point.
+8. You can start another game after either scoring or losing a point.
+HAVE FUN!!!
